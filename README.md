@@ -6,7 +6,7 @@ This project takes the world layoffs dataset and focuses on cleaning and standar
 ## Project Structure
 
 ### Create row_num column
--- Populates duplicate values by adding a row_num column that gives each entity a unique value.
+- Populates duplicate values by adding a row_num column that gives each entity a unique value.
 
 ### Removes duplicates
 - Insert these values into the table.
